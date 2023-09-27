@@ -1,0 +1,14 @@
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\bin\Debug\net6.0\BankDemo.exe
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\bin\Debug\net6.0\BankDemo.deps.json
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\bin\Debug\net6.0\BankDemo.runtimeconfig.json
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\bin\Debug\net6.0\BankDemo.dll
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\bin\Debug\net6.0\BankDemo.pdb
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.AssemblyInfoInputs.cache
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.AssemblyInfo.cs
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.csproj.CoreCompileInputs.cache
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.dll
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\refint\BankDemo.dll
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.pdb
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\BankDemo.genruntimeconfig.cache
+C:\Users\Yunus Emre\source\repos\KampIntro\BankDemo\obj\Debug\net6.0\ref\BankDemo.dll
